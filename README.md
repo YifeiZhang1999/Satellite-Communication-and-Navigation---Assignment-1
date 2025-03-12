@@ -36,12 +36,22 @@ Both metrics are vital for assessing the effectiveness of a GNSS receiver, espec
   <img src="images/1/6.jpg" alt="Urban C/N₀ Performance 2" width="300" />
 </p>
 
-![Urban C/N₀ Performance](images/1/9.jpg) ![Urban C/N₀ Performance](images/1/10.jpg)
+<p align="center">
+  <img src="images/1/10.jpg" alt="Urban C/N₀ Performance 1" width="300" />
+  <img src="images/2/7.jpg" alt="Urban C/N₀ Performance 2" width="300" />
+</p>
 
 ##### **Opensky Dataset**
-![Urban C/N₀ Performance](images/2/5.jpg) ![Urban C/N₀ Performance](images/2/7.jpg)
 
-![Urban C/N₀ Performance](images/2/9.jpg) ![Urban C/N₀ Performance](images/2/11.jpg)
+<p align="center">
+  <img src="images/2/5.jpg" alt="Opensky C/N₀ Performance" width="300" />
+  <img src="images/2/7.jpg" alt="Opensky C/N₀ Performance" width="300" />
+</p>
+
+<p align="center">
+  <img src="images/2/9.jpg" alt="Opensky C/N₀ Performance" width="300" />
+  <img src="images/2/11.jpg" alt="Opensky C/N₀ Performance" width="300" />
+</p>
 
 #### **Correlation between C/N₀ and DLL Performance**
 ##### **Urban Dataset**
