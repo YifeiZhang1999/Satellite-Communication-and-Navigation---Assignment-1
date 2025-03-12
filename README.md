@@ -55,10 +55,26 @@ Both metrics are vital for assessing the effectiveness of a GNSS receiver, espec
 
 #### **Correlation between C/N₀ and DLL Performance**
 ##### **Urban Dataset**
-![Urban Correlation 1](#) ![Urban Correlation 2](#)
+<p align="center">
+  <img src="images/1/3.jpg" alt="Urban C/N₀ and DLL Performance" width="300" />
+  <img src="images/1/4.jpg" alt="Urban C/N₀ and DLL Performance" width="300" />
+</p>
+
+<p align="center">
+  <img src="images/1/7.jpg" alt="Urban C/N₀ and DLL Performance" width="300" />
+  <img src="images/2/8.jpg" alt="Urban C/N₀ and DLL Performance" width="300" />
+</p>
 
 ##### **Opensky Dataset**
-![Opensky Correlation 1](#) ![Opensky Correlation 2](#)
+<p align="center">
+  <img src="images/2/3.jpg" alt="Opensky C/N₀ and DLL Performance" width="300" />
+  <img src="images/2/6.jpg" alt="Opensky C/N₀ and DLL Performance" width="300" />
+</p>
+
+<p align="center">
+  <img src="images/2/8.jpg" alt="Opensky C/N₀ and DLL Performance" width="300" />
+  <img src="images/2/10.jpg" alt="Opensky C/N₀ and DLL Performance" width="300" />
+</p>
 
 ---
 
