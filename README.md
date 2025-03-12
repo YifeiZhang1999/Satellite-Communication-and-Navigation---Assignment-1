@@ -31,7 +31,6 @@ Both metrics are vital for assessing the effectiveness of a GNSS receiver, espec
 
 #### **C/N₀ Performance**
 ##### **Urban Dataset**
-<h5><strong>Urban Dataset</strong></h5>
 <p align="center">
   <img src="images/1/5.jpg" alt="Urban C/N₀ Performance 1" width="300" />
   <img src="images/1/6.jpg" alt="Urban C/N₀ Performance 2" width="300" />
