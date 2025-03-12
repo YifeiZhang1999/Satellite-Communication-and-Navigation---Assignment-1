@@ -32,10 +32,12 @@ Both metrics are vital for assessing the effectiveness of a GNSS receiver, espec
 #### **C/N₀ Performance**
 ##### **Urban Dataset**
 ![Urban C/N₀ Performance](images/1/5.jpg) ![Urban C/N₀ Performance](images/1/6.jpg)
+
 ![Urban C/N₀ Performance](images/1/9.jpg) ![Urban C/N₀ Performance](images/1/10.jpg)
 
 ##### **Opensky Dataset**
 ![Urban C/N₀ Performance](images/2/5.jpg) ![Urban C/N₀ Performance](images/2/7.jpg)
+
 ![Urban C/N₀ Performance](images/2/9.jpg) ![Urban C/N₀ Performance](images/2/11.jpg)
 
 #### **Correlation between C/N₀ and DLL Performance**
