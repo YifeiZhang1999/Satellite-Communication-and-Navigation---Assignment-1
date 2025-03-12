@@ -7,7 +7,7 @@ The initial phase of GNSS signal processing is **signal acquisition**, where Int
 The outcomes of this process provide a preliminary evaluation of **signal availability**, which is crucial for ensuring that satellites can be effectively tracked in the later stages. The acquisition results of the two datasets are shown below.
 
 ### 1. Urban
-![Urban Acquisition Results](#)
+![Urban Acquisition Results](images/1/1.jpg)
 
 ### 2. Opensky
 ![Opensky Acquisition Results](#)
