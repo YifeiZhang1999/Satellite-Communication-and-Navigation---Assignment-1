@@ -117,7 +117,10 @@ At least one satellite's data has been successfully decoded, demonstrating the c
 **Pseudorange measurements** obtained during the tracking phase are utilized in a **Weighted Least Squares (WLS)** algorithm to compute the **user's position and velocity**.
 
 ### **Comparison of Positioning Errors**
-![Urban vs Opensky Positioning Error](#)
+<p align="center">
+  <img src="images/1/11.jpg" alt="Urban" width="300" />
+  <img src="images/2/12.jpg" alt="Opensky" width="300" />
+</p>
 
 As seen in the above graphs:
 - The **maximum error** in the **Urban area** is about **100m**, which is much higher than that in **open-sky areas (30m)**.
@@ -142,7 +145,10 @@ Multipath effects arise when **GPS signals reflect off nearby surfaces** (such a
 To **improve positioning accuracy**, an **Extended Kalman Filter (EKF)** is developed using **pseudorange** and **Doppler measurements**.
 
 ### **EKF Applied to the Urban Dataset**
-![EKF Urban Dataset](#)
+<p align="center">
+  <img src="images/1/11.jpg" alt="Inital" width="300" />
+  <img src="images/1/13.jpg" alt="EKF" width="300" />
+</p>
 
 Besides improving position accuracy, **velocity error** can also be **significantly decreased**.
 
